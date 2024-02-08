@@ -19,5 +19,29 @@
 
 > "...set out to prove that some decisions are better left to your unconscious mind to untangle"
 
-> 
+> "When you work, work hard. When you're done, be done"
+
+> "Efforts to deepen your focus will struggle if you don't simultaneously wean your mind from a dependence on distraction. Much in the same way that athletes must take care of their bodies outside of their training sessions, you'll struggle to achieve the deepest levels of concentration if you spend the rest of your time fleeing the slighest hint of boredom."
+
+> "Deep work habit requires training, ..., this training must address two goals: improving your ability to concentrate intensely and overcoming your desire for distraction."
+
+> "Don't take breaks from distraction. Instead take breaks from focus."
+
+> "When you notice your attention slipping away from the problem at hand, gently remind yourself that you can return to that thought later, then redirect your attention back."
+
+> "You must be on your guard for looping, as it can quickly subvert an entire productive meditation session. When you notice it, remark to yourself that you seem to be in a loop, then redirect your attention toward the next step."
+
+> "Notice that this craftman approach to tool selection stand in opposition to the any-benefit approach. Whereas the any-benefit mind-set identifies any potential positive impact as justification for using a tool, the craftman variant requires that these positive impacts affect factors at the core of what's important to you and that they outweigh the negatives."
+
+> "Part of what fueled the social media's rapid assent, I contend, is its ability to short-circuit this connection between the hard work of producing real value and the positive reward of having people pay attention to you."
+> "I'll pay attention to what you say if you pay attention to what I say-regardless of its value."
+> "This agreement gives everyone a simulacrum of importance without requiring much effort in return."
+
+> "Put more thought into your leisure time" *Arnold Bennett*
+
+> "Deep work is exhausting because it pushes you toward the limit of your abilities"
+
+> "Schedule every minute of your day"
+
+> "It's a simple habit that forces you to continually take a moment throughout your day and ask: "What makes sense for me to do with the time that remains?" It's the habit of asking that returns results, not your unyielding fidelity to the answer.
 
