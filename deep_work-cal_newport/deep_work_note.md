@@ -45,3 +45,4 @@
 
 > "It's a simple habit that forces you to continually take a moment throughout your day and ask: "What makes sense for me to do with the time that remains?" It's the habit of asking that returns results, not your unyielding fidelity to the answer.
 
+> "... Because, of course, in the end, a business's goal is to generate value, not to make sure its employees' lives are as easy as possible."
