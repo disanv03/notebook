@@ -1,4 +1,0 @@
-- Game 1:
-    - Pawn moves must be carefully considered when the natural defender has disappeared
-    - "The threat is stronger than its execution." **Nimzowitsh**
-    - Look out for multi-purpose moves
