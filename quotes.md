@@ -14,7 +14,7 @@
 
 > "Wisdom is the echo of experience"
 
-> "A simple recipe for finding opportunities:
+"A simple recipe for finding opportunities:
 
     - Be pleasant
     
