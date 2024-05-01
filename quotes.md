@@ -14,13 +14,23 @@
 
 > "Wisdom is the echo of experience"
 
-> "A simple recipe for finding opportunities:
+"A simple recipe for finding opportunities:
+
     - Be pleasant
+    
     - Ask questions
+    
     - Engage daily
+    
 It's hard for a warm and pleasant person who is asking a lot of questionsand engaging in their industry daily to not come across interesting opportunities."
 
 > There are two ways to grow: by adding or by shedding.
 
+<<<<<<< HEAD
 
 > Décidément, l'IA est un bon serviteur mais un mauvais maître, je l'ai encore écouté aveuglément.
+=======
+> I'm not seeking absolute truth. As a person, I seek the best insights that I can get. And sometimes one truth competes with another truth.
+
+> "It's not about the glory, it's about the growth"
+>>>>>>> dd078614cbe9df82a40348c06385393957e8d527
