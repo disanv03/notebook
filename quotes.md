@@ -21,3 +21,6 @@
 It's hard for a warm and pleasant person who is asking a lot of questionsand engaging in their industry daily to not come across interesting opportunities."
 
 > There are two ways to grow: by adding or by shedding.
+
+
+> Décidément, l'IA est un bon serviteur mais un mauvais maître, je l'ai encore écouté aveuglément.
