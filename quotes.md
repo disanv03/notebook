@@ -31,3 +31,5 @@ It's hard for a warm and pleasant person who is asking a lot of questionsand eng
 > "It's not about the glory, it's about the growth"
 
 > L'IA est un bon serviteur mais un mauvais maître
+
+> Nature imagatination is so much greater than man, she's never going to let us relax. Richard Feynman
