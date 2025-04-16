@@ -1,5 +1,7 @@
 # 356 with self discipline
 
+**I don't want an easy life, I want a beautiful life**
+
 Day 1:
 
 
