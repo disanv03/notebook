@@ -28,3 +28,5 @@ Day 4:
 > You'll be less likely to waste time at work when you block the most distracting websites instead of relying on your willpower to stop you before loading those funny cat pictures.
 
 > [...] Your self-control system will do some of the heavy lifting for you, leaving your reserves of self-discipline to be used for the unplanned situations, when they arise.
+
+Day 5:
